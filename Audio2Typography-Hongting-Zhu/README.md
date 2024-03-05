@@ -12,6 +12,6 @@ This project is interested in creating collaborative design between designers an
 
 ## How do I use this?
 
-###Change your text design in the text node. You can change layout, font, font size etc like you do in InDesign.
+- Change your text design in the text node. You can change layout, font, font size etc like you do in InDesign.
 
-###Change how reactive you want the tool to be by changing parameters in audioanalysis node.
+- Change how reactive you want the tool to be by changing parameters in audioanalysis node.
